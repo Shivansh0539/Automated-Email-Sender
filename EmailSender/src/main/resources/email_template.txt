@@ -1,0 +1,9 @@
+Dear {name},
+
+This is a test email sent to {email}.
+Thankyou for reading the mail.
+
+Thank you!
+
+Best regards,
+Your Name
